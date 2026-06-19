@@ -1,5 +1,6 @@
-# cupcable
-App de finanças
+# Cupcable
+
+App de finanças - Individual, família e casal.
 
 Insight: 19/09/25
 cupcake on the table resumindo vira cupcable.
@@ -8,3 +9,23 @@ Perguntei ao chat gpt algumas coisas sobre a criação do app e tudo o mais e el
 
 O app será de gestão financeira, doméstica e pessoal!
 Hoje é só o Dia 1!
+
+---
+
+2.0
+App de finanças -  Com outras funcionalidades para serem disponibilizadas, como:
+
+* Mapa de hábitos
+* Todo list
+* Agenda
+
+E o que mais for necessário para uma organização diária, seja ela individual, do casal ou da família com filhos.
+
+## Apontamentos
+
+[ ] Alarme
+[ ] Notificações
+[ ] Agenda individual
+[ ] Agenda dos filhos
+[ ] Agenda do casal
+[ ] Divisão de contas, etc.
