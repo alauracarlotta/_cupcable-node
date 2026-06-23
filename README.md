@@ -1,5 +1,20 @@
-# Cupcable
+# 💡 *MY CUPCABLE*
 
+
+> ### 🚀 CUPCABLE
+> ###### <a href="https://github.com/alauracarlotta/my_cupcable" target="_blank" title="github.com/alauracarlotta/my_cupcable">🚧 UNDER CONSTRUCTION 🚧 </a> 
+> *This application is currently under heavy development.*  
+> *Features are being added and refined daily.*  
+> *Stay tuned for the official release!* 
+
+</br>
+
+## ✨ About ✨
+- 🛠️ A family finance and calendar app featuring expense tracking, reminders, bill splitting, and custom permission profiles for the entire household (including children and support networks)
+- 
+---
+
+1.0
 App de finanças - Individual, família e casal.
 
 Insight: 19/09/25
