@@ -1,0 +1,6 @@
+.next
+README.md
+*.md
+.yaml
+.yml
+.vscode/settings.json
