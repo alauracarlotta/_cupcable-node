@@ -1,17 +1,21 @@
-# 💡 *MY CUPCABLE*
+# 💡 _MY CUPCABLE_
 
-
-> ### 🚀 CUPCABLE
-> ###### <a href="https://github.com/alauracarlotta/my_cupcable" target="_blank" title="github.com/alauracarlotta/my_cupcable">🚧 UNDER CONSTRUCTION 🚧 </a> 
-> *This application is currently under heavy development.*  
-> *Features are being added and refined daily.*  
-> *Stay tuned for the official release!* 
+> ## 🚀 CUPCABLE
+>
+> ### [🚧 UNDER CONSTRUCTION 🚧](https://github.com/alauracarlotta/my_cupcable)
+>
+> _This application is currently under heavy development._
+>
+> _Features are being added and refined daily._
+>
+> _Stay tuned for the official release!_
 
 </br>
 
 ## ✨ About ✨
+
 - 🛠️ A family finance and calendar app featuring expense tracking, reminders, bill splitting, and custom permission profiles for the entire household (including children and support networks)
-- 
+
 ---
 
 1.0
@@ -28,19 +32,19 @@ Hoje é só o Dia 1!
 ---
 
 2.0
-App de finanças -  Com outras funcionalidades para serem disponibilizadas, como:
+App de finanças - Com outras funcionalidades para serem disponibilizadas, como:
 
-* Mapa de hábitos
-* Todo list
-* Agenda
+- Mapa de hábitos
+- Todo list
+- Agenda
 
 E o que mais for necessário para uma organização diária, seja ela individual, do casal ou da família com filhos.
 
 ## Apontamentos
 
-[ ] Alarme
-[ ] Notificações
-[ ] Agenda individual
-[ ] Agenda dos filhos
-[ ] Agenda do casal
-[ ] Divisão de contas, etc.
+- [ ] Alarme
+- [ ] Notificações
+- [ ] Agenda individual
+- [ ] Agenda dos filhos
+- [ ] Agenda do casal
+- [ ] Divisão de contas, etc.
